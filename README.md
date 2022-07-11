@@ -8,8 +8,8 @@ Using the citipy module, we randomly generated a list of over 700 cities around 
 <br>
 <img src = "Vacation_Search/WeatherPy_vacation_map.PNG" width="500px">
 <br/>
-We also build a sample vacation itinerary with route map to four possible vaction cities and city information. 
+<br/>
+We also build a sample vacation itinerary with a route map to four possible vacation cities and city information.
 
 <img src = "Vacation_Itinerary/WeatherPy_travel_map.png" width="500px">
-<br>
 <img src = "Vacation_Itinerary/WeatherPy_travel_map_marker.png" width="500px">
